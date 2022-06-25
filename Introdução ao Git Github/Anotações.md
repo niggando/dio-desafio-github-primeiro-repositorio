@@ -42,6 +42,7 @@ Este comando significa "empurrar" e, de fato, você empurra os arquivos alterado
 ## Links úteis
 
 [Link para download do Git](https://git-scm.com/)
+
 [Lista de comandos do git - completa](https://comandosgit.github.io/)
 
 ### Recado para o futuro: Isso é só o começo! Obrigado por ler!
